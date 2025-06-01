@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "placeholder_test.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
